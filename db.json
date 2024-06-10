@@ -1,0 +1,108 @@
+{
+  "tours": [
+    {
+      "id": "3e79f0ee-2730-4c30-8726-aa331c984e38",
+      "nombre": "Quito City Tour",
+      "descripcion": "Circuito panorámico",
+      "foto": "Bus.png"
+    },
+    {
+      "id": "3868de1d-5feb-43c3-9303-91467b46334e",
+      "name": "Ruta al Puyo",
+      "descripcion": "Ruta prueba"
+    },
+    {
+      "id": "bf4aba67-84c6-4a71-9850-51bb87d9847a",
+      "nombre": "Tour panecillo",
+      "description": "tour de noche",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1717706623/tours/igo8j0lowglknho4lq3w.jpg",
+      "public_id": "tours/igo8j0lowglknho4lq3w"
+    },
+    {
+      "id": "be613a09-5328-487d-91f7-189dbfc6f471",
+      "name": "Aire",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055385/tours/bnepswmbfogre69naok7.jpg",
+      "public_id": "tours/bnepswmbfogre69naok7"
+    },
+    {
+      "id": "5f37f43c-717c-44b6-a519-c9feeddb8c4e",
+      "name": "Mario",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055520/tours/kpjals0gam2efluobzjz.jpg",
+      "public_id": "tours/kpjals0gam2efluobzjz"
+    },
+    {
+      "id": "1f8b2a4e-025b-4ceb-8c6d-0f8fd5c740ae",
+      "name": "Mario",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055613/tours/ypjpcpr562v8lshbxqcm.jpg",
+      "public_id": "tours/ypjpcpr562v8lshbxqcm"
+    },
+    {
+      "id": "dcb0c810-6484-4393-aab8-1769b8c62b64",
+      "name": "Mario",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055711/tours/lwy4pi0zcqiw6pgnylsp.jpg",
+      "public_id": "tours/lwy4pi0zcqiw6pgnylsp"
+    },
+    {
+      "id": "10713f66-0570-490d-ba81-8327fc6168eb",
+      "name": "Mario",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055743/tours/gkqbhyuzshibwitrtnej.jpg",
+      "public_id": "tours/gkqbhyuzshibwitrtnej"
+    },
+    {
+      "id": "7b939a24-7c91-4e45-9d44-6dae44554d76",
+      "name": "Mario",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055826/tours/rwfmc3evsxdpjinbglak.jpg",
+      "public_id": "tours/rwfmc3evsxdpjinbglak"
+    },
+    {
+      "id": "feca6b10-0a28-4738-9e9d-df48bf9d9143",
+      "name": "Mario",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718055884/tours/oaminvqj9qjl60b36hhc.jpg",
+      "public_id": "tours/oaminvqj9qjl60b36hhc"
+    },
+    {
+      "id": "c988c04f-e84c-4e75-9838-a08d5e2f74cc",
+      "name": "Meme",
+      "image": "https://res.cloudinary.com/dtrkjq9zy/image/upload/v1718056033/tours/flzx3xt8dtbyzmnxsyb1.jpg",
+      "public_id": "tours/flzx3xt8dtbyzmnxsyb1"
+    },
+    {
+      "id": "51fd2946-e2d5-4c70-a5e5-f22faa505b79",
+      "name": "Meme",
+      "image": "https://res.cloudinary.com/dowfxxgii/image/upload/v1718056523/tours/uhaqiidx3deuijkdw9m9.jpg",
+      "public_id": "tours/uhaqiidx3deuijkdw9m9"
+    }
+  ],
+  "users": [
+    {
+      "id": "2958890f-309c-4918-a113-0beafa99c971",
+      "password": "$2b$10$IalRCtbjzcaCQaQKgifgB.WTOgJEUQMze3LVS5RDthREzavX.BFQG",
+      "username": "Byron"
+    },
+    {
+      "id": "cbd132e8-e826-42b8-b26b-25c22685eed2",
+      "password": "$2b$10$z81ISCEDdbNKKBv9JtGBauFHXu7R5L3rV8amjH1PYWYwUHA6NmesW",
+      "username": "Byron"
+    },
+    {
+      "id": "7236f43e-093b-44cc-ab05-0551af611fea",
+      "password": "$2b$10$LSQDUWcc.uIyAgjW4Cf38OCSrMakdtPzTmmMXNBmmiQRTAHocvKuy",
+      "username": "daniel"
+    },
+    {
+      "id": "6134fcc6-552d-4b85-b6d7-b793e3521607",
+      "password": "$2b$10$XPHCVMC4oTTiCP3Et7j7perTB9qvJ60PbqvQ/NBorv5MB8momGzbW",
+      "username": "daniel"
+    },
+    {
+      "id": "dd8c0b0b-1aa2-401a-84a6-0efc598ad1d0",
+      "password": "$2b$10$x7AGNhJd1oz4oMLIBY9AA.AxWKx1It2f16cLeWAdR.aKY4H1v2zAC",
+      "username": "selena"
+    },
+    {
+      "id": "d3d7c490-d936-4ad7-b813-6d849185a907",
+      "password": "$2b$10$8vYqvKR5scXnYD0O7NWBwuD6/RRSiYuxzL5HYn9VnNBPJTwLrCv6O",
+      "username": "silvana"
+    }
+  ]
+}
